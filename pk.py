@@ -1,10 +1,3 @@
 print ("new")
-print ("pk")
-print("ppkk")
-
-print("p")
-print ("kkkkk")
-
-print("ppppp")
-print ("k")
+print ("new_1")
 
